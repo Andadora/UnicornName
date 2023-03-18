@@ -1,0 +1,16 @@
+﻿{
+  "Id": "YEOP45nNREKbwZq91SrewQ",
+  "Reference": "ULwQlcbq7EOPp1XDsCKrTA/YEOP45nNREKbwZq91SrewQ",
+  "ParentRef": "ULwQlcbq7EOPp1XDsCKrTA/PQ81iPs8FU-AKJhdW2VBCg",
+  "Name": "TextUnicornName",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-18T10:15:43.8935105Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-18T10:17:36.6876341Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
